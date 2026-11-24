@@ -4,4 +4,6 @@ Esse projeto visa trazer informações referente a taxa de mortalidade nos estad
 ## Fonte dos Dados 
 Fonte de dados que estou utilizando principalmente vem do repositório do Wesley Cota: [wcota/covid19br](https://github.com/wcota/covid19br)
 
-
+## Explicação dos arquivos 
+## 1 - Calculos
+Como a intenção seria trazer uma porcentagem de óbitos nas próximas tarefas que devo utilizar o matplotlib, criei a função "porcentagem_regional" e fiz um arquivo py. para ela. 
